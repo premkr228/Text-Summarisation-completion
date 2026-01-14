@@ -1,6 +1,6 @@
 # Text-Summarisation-completion
 
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/aa801abb-7c1c-4aab-9653-dd0d0b837d02" />
+![Image](https://github.com/user-attachments/assets/496f3aa1-4e68-4e7c-9d54-9f3cb4dea514)
 
 This program utilizes OpenAI's GPT-2 language model to perform two main tasks: Text summarization and Text completion.
 
