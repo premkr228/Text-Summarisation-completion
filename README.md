@@ -1,4 +1,7 @@
 # Text-Summarisation-completion
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/aa801abb-7c1c-4aab-9653-dd0d0b837d02" />
+
 This program utilizes OpenAI's GPT-2 language model to perform two main tasks: Text summarization and Text completion.
 
 Text Summarization: The program takes a long input text and generates a concise summary. It uses a tokenizer to encode the input and then employs the GPT-2 model to create a summary that captures the key points while maintaining coherence. The output is a summarized version of the original text, suitable for quick understanding.
